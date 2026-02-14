@@ -73,7 +73,3 @@ Contribuições podem incluir:
 * Melhorias na usabilidade
 * Inclusão de novos campos (ex: criptoativos, investimentos internacionais)
 * Traduções e adaptações
-
----
-
-Se você quiser, posso montar uma versão mais técnica (estilo GitHub real com badges e estrutura de pastas) ou uma versão mais comercial para usar com clientes da sua assessoria.
